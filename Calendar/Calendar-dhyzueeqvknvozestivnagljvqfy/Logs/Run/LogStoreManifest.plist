@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E22764FB-EBA8-47E3-8668-21209DA92C3B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E22764FB-EBA8-47E3-8668-21209DA92C3B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Calendar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Calendar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Calendar</string>
+			<key>timeStartedRecording</key>
+			<real>655913347.34636199</real>
+			<key>timeStoppedRecording</key>
+			<real>655913449.80527306</real>
+			<key>title</key>
+			<string>Run Calendar</string>
+			<key>uniqueIdentifier</key>
+			<string>E22764FB-EBA8-47E3-8668-21209DA92C3B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
